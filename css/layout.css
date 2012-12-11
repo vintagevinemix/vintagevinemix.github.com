@@ -1,7 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display+SC:900italic,400);
+
 body {
   padding-top: 20px;
   padding-bottom: 40px;
   background: url(../images/bg.jpg) repeat-y center top black;
+  font-family: 'Playfair Display SC', serif;
 }
 
 /* Custom container */
@@ -37,5 +40,8 @@ body {
   padding: 14px 24px;
 }
 
+.carousel-control {
+  font-size: 40px;
+}
 
 
